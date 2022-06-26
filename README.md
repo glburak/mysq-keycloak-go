@@ -1,1 +1,1 @@
-# mysq-keycloak-go
+# mysql-keycloak-go
